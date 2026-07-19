@@ -1,2 +1,2 @@
 # EDA-
-Exploratory data analysis work as done in labs 
+Exploratory data analysis of various datasets
